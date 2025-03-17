@@ -1,9 +1,15 @@
-# XUMING XIU
-
-**Mobile**: +44 7780268793 | **Email**: oliverxiu18@gmail.com  
-**LinkedIn**: [linkedin.com/in/xuming-xiu](http://www.linkedin.com/in/xuming-xiu/) | **GitHub**: [github.com/xuxvming](https://github.com/xuxvming)
-
 ---
+layout: cv
+title: Isaac Newtons's CV
+---
+# Xuming Xiu
+Senior Software engineer, Bloomberg
+
+<div id="webaddress">
+<a href="xumingxiu1118@gmail.com">xumingxiu1118@gmail.com</a>
+| <a href="+447780268793">+447780268793</a>
+</div>
+
 
 ## PROFESSIONAL SUMMARY
 
@@ -60,3 +66,7 @@ Results-driven Senior Software Engineer with over 4 years of experience in devel
 - Research Project: Cloud-Based Low Latency Big Data Pipeline with Spark
 
 *Bachelor of Computer Engineering (II-1)* (Sep 2015 – Jun 2019)
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
