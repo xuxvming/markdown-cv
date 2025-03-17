@@ -29,6 +29,7 @@ Results-driven Senior Software Engineer with over 4 years of experience in devel
 ## PROFESSIONAL EXPERIENCE
 
 `Feb 2021 – Present`
+
 **Bloomberg, London, UK**  
 *Senior Software Engineer* 
 - **Designed and implemented a scalable data QC platform**, enhancing data accuracy and reliability across multiple systems.
@@ -40,6 +41,7 @@ Results-driven Senior Software Engineer with over 4 years of experience in devel
 *Technologies used*: Scala, Python, Docker, Spark, Cassandra, Kafka
 
 `Sep 2020 – Feb 2021`
+
 **J.P. Morgan, Dublin, Ireland**  
 *Software Engineer, Custody Fund Services Team*
 
@@ -49,6 +51,7 @@ Results-driven Senior Software Engineer with over 4 years of experience in devel
 *Technologies used*: Java, Cloud Foundry, Jenkins, Spring Boot
 
 `Jan 2019 – Aug 2019`
+
 **Bloomberg, Dublin, Ireland**  
 *Software Engineer Intern, PolarLake Data Platform*
 
