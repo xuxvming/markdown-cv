@@ -2,70 +2,87 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Xuming Xiu
-Senior Software engineer, Bloomberg
+# Isaac Newton
+Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="xumingxiu1118@gmail.com">xumingxiu1118@gmail.com</a>
-| <a href="+447780268793">+447780268793</a>
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
-## PROFESSIONAL SUMMARY
+## Currently
 
-Results-driven Senior Software Engineer with over 4 years of experience in developing scalable data systems and financial services applications. Proficient in Java, Python, and Rust, with a strong background in cloud technologies and distributed systems. Demonstrated expertise in leading cross-functional teams, optimizing system performance, and implementing innovative solutions to complex problems.
+Standing on the shoulders of giants
 
----
+### Specialized in
 
-## SKILLS
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-- **Programming Languages**: Java, Python, Rust, C++
-- **Cloud & DevOps**: AWS S3, Cloud Foundry, Jenkins, Linux, Spring Boot, Kubernetes
-- **Distributed Systems & Tools**: Kafka, Spark, Cassandra, HBase, Trino, Docker
-- **Additional**: Microservices architecture, API design, system performance optimization
 
----
+### Research interests
 
-## PROFESSIONAL EXPERIENCE
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
-**Bloomberg, London, UK**  
-*Senior Software Engineer* (Feb 2021 – Present)
 
-- **Designed and implemented a scalable data QC platform**, enhancing data accuracy and reliability across multiple systems.
-- **Collaborated with engineering teams to evaluate technology choices and develop a federated service**, contributing to the next-generation metadata platform.
-- **Architected a data ingestion pipeline handling over 50 million real-time records daily**, ensuring efficient data processing.
-- **Refactored legacy C++ services**, reducing system downtime by 30% and improving overall reliability.
-- **Contributed to inner-source projects in Rust and Python**, organized internal meetups to promote knowledge sharing and best practices, and improved system interoperability.
+## Education
 
-*Technologies used*: Scala, Python, Docker, Spark, Cassandra, Kafka
+`1654-1660`
+__The King's School, Grantham.__
 
-**J.P. Morgan, Dublin, Ireland**  
-*Software Engineer, Custody Fund Services Team* (Sep 2020 – Feb 2021)
+`June 1661 - now`
+__Trinity College, Cambridge__
 
-- Developed a RESTful web service for Tax Questionnaire using Java and Spring Boot, streamlining regulatory processes for internal users and external clients.
-- Created a trading monitor application to report trades and assist in decision-making during price fluctuations in simulated markets.
+- Sizar
 
-*Technologies used*: Java, Cloud Foundry, Jenkins, Spring Boot
+`1667 - death`
+__Trinity College, Cambridge__
 
-**Bloomberg, Dublin, Ireland**  
-*Software Engineer Intern, PolarLake Data Platform* (Jan 2019 – Aug 2019)
+- Fellow
 
-- Designed and implemented a scalable file ingestion RESTful web service using Spring Boot, increasing data processing efficiency by 40%.
-- Investigated memory overuse issues, reducing runtime memory usage by 40% through optimized code practices.
-- Developed a frontend interface using Vue.js and containerized the application, simplifying file flow monitoring for QA teams.
 
-*Technologies used*: Java, Spring Boot, Vue.js, Jenkins
 
----
+## Awards
 
-## EDUCATION
+`2012`
+President, *Royal Society*, London, UK
 
-**Trinity College Dublin**  
-*Master of Computer Engineering (Distinction)* (Sep 2019 – Nov 2020)
+Associate, *French Academy of Science*, Paris, France
 
-- Research Project: Cloud-Based Low Latency Big Data Pipeline with Spark
 
-*Bachelor of Computer Engineering (II-1)* (Sep 2015 – Jun 2019)
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+
 
 <!-- ### Footer
 
