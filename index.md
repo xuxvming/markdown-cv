@@ -11,7 +11,7 @@ Senior Software engineer, Bloomberg
 </div>
 
 
-## PROFESSIONAL SUMMARY
+## SUMMARY
 
 Results-driven Senior Software Engineer with over 4 years of experience in developing scalable data systems and financial services applications. Proficient in Java, Python, and Rust, with a strong background in cloud technologies and distributed systems. Demonstrated expertise in leading cross-functional teams, optimizing system performance, and implementing innovative solutions to complex problems.
 
@@ -20,7 +20,7 @@ Results-driven Senior Software Engineer with over 4 years of experience in devel
 ## SKILLS
 
 - **Programming Languages**: Java, Python, Rust, C++
-- **Cloud & DevOps**: AWS S3, Cloud Foundry, Jenkins, Linux, Spring Boot, Kubernetes
+- **Cloud & DevOps**: AWS S3, Cloud Foundry, Jenkins, Linux, Kubernetes
 - **Distributed Systems & Tools**: Kafka, Spark, Cassandra, HBase, Trino, Docker
 - **Additional**: Microservices architecture, API design, system performance optimization
 
@@ -32,11 +32,11 @@ Results-driven Senior Software Engineer with over 4 years of experience in devel
 
 **Bloomberg, London, UK**  
 *Senior Software Engineer* 
-- **Designed and implemented a scalable data QC platform**, enhancing data accuracy and reliability across multiple systems.
-- **Collaborated with engineering teams to evaluate technology choices and develop a federated service**, contributing to the next-generation metadata platform.
-- **Architected a data ingestion pipeline handling over 50 million real-time records daily**, ensuring efficient data processing.
-- **Refactored legacy C++ services**, reducing system downtime by 30% and improving overall reliability.
-- **Contributed to inner-source projects in Rust and Python**, organized internal meetups to promote knowledge sharing and best practices, and improved system interoperability.
+- Designed and implemented a scalable data QC platform, enhancing data accuracy and reliability across multiple systems.
+- Collaborated with engineering teams to evaluate technology choices and develop a federated service, contributing to the next-generation metadata platform.
+- Architected a data ingestion pipeline handling over 50 million real-time records daily, ensuring efficient data processing.
+- Refactored legacy C++ services, reducing system downtime by 30% and improving overall reliability.
+- Contributed to various of inner-source projects in Rust and Python, organized internal meetups to promote knowledge sharing and best practices, and improved system interoperability.
 
 *Technologies used*: Scala, Python, Docker, Spark, Cassandra, Kafka
 
