@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Xuming Xiu's CV
 ---
 # Xuming Xiu
 Senior Software engineer, Bloomberg
@@ -10,13 +10,11 @@ Senior Software engineer, Bloomberg
 | <a href="+447780268793">+447780268793</a>
 </div>
 
-
 ## SUMMARY
 
 Results-driven Senior Software Engineer with over 4 years of experience in developing scalable data systems and financial services applications. Proficient in Java, Python, and Rust, with a strong background in cloud technologies and distributed systems. Demonstrated expertise in leading cross-functional teams, optimizing system performance, and implementing innovative solutions to complex problems.
 
 ---
-
 ## SKILLS
 
 - **Programming Languages**: Java, Python, Rust, C++
@@ -25,7 +23,6 @@ Results-driven Senior Software Engineer with over 4 years of experience in devel
 - **Additional**: Microservices architecture, API design, system performance optimization
 
 ---
-
 ## PROFESSIONAL EXPERIENCE
 
 `Feb 2021 – Present`
@@ -62,7 +59,6 @@ Results-driven Senior Software Engineer with over 4 years of experience in devel
 *Technologies used*: Java, Spring Boot, Vue.js, Jenkins
 
 ---
-
 ## EDUCATION
 
 `Sep 2019 – Nov 2020`
